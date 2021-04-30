@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name="altbuild", # Replace with your own username
+    name="altbuild",
     version="0.0.1",
     author="ExhoAR22",
     author_email="exhoar@gmail.com",
