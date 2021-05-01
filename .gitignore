@@ -2,6 +2,7 @@
 /build/
 /dist/
 /altbuild.egg-info/
+*.pyc
 
 # PyCharm
 /.idea/
